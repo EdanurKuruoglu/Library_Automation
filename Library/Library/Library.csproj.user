@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAddBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAddPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBookBorrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBookManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBooksShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMemberManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPersonelManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSingUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserBookBorrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserBooksShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserFavorite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserIstatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmUserReadBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

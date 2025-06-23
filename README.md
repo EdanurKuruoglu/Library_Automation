@@ -23,7 +23,7 @@ This is a modern **Library Management System** developed using **C#** and **MySQ
 ![Book List](book_search.jpeg)
 
 #### ➕ Delete Update Book Form
-![Add Book](book_delete_uğdate.jpeg)
+![Add Book](book_delete_udate.jpeg)
 
 #### 👤 Book Return 
 ![Book Return](book_return.jpeg)

@@ -29,7 +29,7 @@ This is a modern **Library Management System** developed using **C#** and **MySQ
 ![Book Return](book_return.jpeg)
 
 #### 👤 User Management
-![User Management](user_manangement.jpeg)
+![User Management](user_management.jpeg)
 
 #### 🔄 Borrow Book Interface
 ![Borrow and Return](borrow_page.jpeg)

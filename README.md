@@ -17,19 +17,19 @@ This is a modern **Library Management System** developed using **C#** and **MySQ
 ### 📸 Screenshots
 
 #### 🔐 Login Screen
-![Login Screen](screenshots/main_page.jpeg)
+![Login Screen](main_page.jpeg)
 
 #### 📚 Book List Screen
-![Book List](screenshots/book_search.jpeg)
+![Book List](book_search.jpeg)
 
 #### ➕ Delete Update Book Form
-![Add Book](screenshots/book_delete_uğdate.jpeg)
+![Add Book](book_delete_uğdate.jpeg)
 
 #### 👤 Book Return 
-![User Management](screenshots/book_return.jpeg)
+![Book Return](book_return.jpeg)
 
 #### 🔄 Borrow
-![Borrow and Return](screenshots/borrow_page.jpeg)
+![Borrow and Return](borrow_page.jpeg)
 
 ## 🧪 How to Run
 1. Clone the repository:
